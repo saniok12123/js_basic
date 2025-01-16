@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# WebStorm
+.idea/
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
